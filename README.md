@@ -1,6 +1,6 @@
 # Exam4_BIO539
 
-#Python Exam (exam 4)
+## Python Exam, Exam 4
 This repository contains four files:
 
 1. README text file decribing contents of repository
